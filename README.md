@@ -39,7 +39,7 @@ The dataset consists of pairs of Thanglish and English sentences. Thanglish sent
 ## Contributors
 - [Dinesh Kumar M](https://github.com/imdineshkumar24)
 - [Dhanush G](https://github.com/gdhanush27)
-- Vignesh R
+- [Vignesh R](https://github.com/KECWIKKI)
 
 ## License
 This project is licensed under the [MIT License](https://mit-license.org/).
