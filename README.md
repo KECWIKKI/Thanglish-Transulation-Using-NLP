@@ -30,12 +30,6 @@ The dataset consists of pairs of Thanglish and English sentences. Thanglish sent
 - Monitoring accuracy and loss metrics
 - Model performance evaluation on test data
 
-## Usage
-1. Clone the repository.
-2. Install the required dependencies.
-3. Run the desired model script (`lstm_model.py`, `gru_model.py`, `transformer_model.py`) to train and evaluate the model.
-4. After training, use the trained model for translation by providing a Thanglish sentence as input.
-
 ## Contributors
 - [Dinesh Kumar M](https://github.com/imdineshkumar24)
 - [Dhanush G](https://github.com/gdhanush27)
